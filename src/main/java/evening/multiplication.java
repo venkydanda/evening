@@ -8,6 +8,7 @@ int numberOne = Integer.parseInt(args[0]);
 int numberTwo = Integer.parseInt(args[1]);
 int result = multiplication (numberOne,numberTwo);
 System.out.println("multiplication is "+result);
+System.out.println("added new line");
 	}
 
 	public static int multiplication(int numberOne, int numberTwo) {
